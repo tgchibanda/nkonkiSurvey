@@ -26,7 +26,7 @@
   </label>
 </div>
 <div class="form-check">
-  <input class="form-check-input" type="radio" name="career_development" id="career_development2" value="No" class="sr-only" required>
+  <input class="form-check-input" type="radio" name="recommend" id="career_development2" value="No" class="sr-only" required>
   <label class="form-check-label" for="career_development">
     No
   </label>

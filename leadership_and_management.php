@@ -280,6 +280,6 @@ No
 
 
 
-    <button class="btn btn-primary send" id="send" type="submit">Send</button>
+    
 
 	</div>
