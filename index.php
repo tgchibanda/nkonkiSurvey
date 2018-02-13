@@ -1,4 +1,6 @@
 ﻿<?php
+error_reporting(0);
+
 session_start();
 function unique_key(){
 	
@@ -100,7 +102,7 @@ $_SESSION['session'] = unique_key();
 			</section>
 
 			<section id="content7" class="tab-content">
-				<h3>Work Environment and Relationips</h3>
+				<h3>Work Environment and Relationships</h3>
 				<p><?php include 'work_environment.php'; ?></p>
 				  
 		
